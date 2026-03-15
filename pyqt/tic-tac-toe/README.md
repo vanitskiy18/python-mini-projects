@@ -22,6 +22,7 @@ The project was created as a small exercise to practice GUI programming and basi
 
 ## 📂 Project Structure
 tic-tac-toe
+
 │
 
 ├── tic-tac-toe.py # main game file
