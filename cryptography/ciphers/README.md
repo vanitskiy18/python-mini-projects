@@ -65,7 +65,7 @@ C ↔ X
 2. Run the main file:
 
 ```bash
-python main.py
+#python main.py
 
 The graphical interface will open and allow you to encrypt or decrypt text.
 
