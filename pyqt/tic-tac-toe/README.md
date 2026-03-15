@@ -23,7 +23,9 @@ The project was created as a small exercise to practice GUI programming and basi
 ## 📂 Project Structure
 tic-tac-toe
 │
+
 ├── tic-tac-toe.py # main game file
+
 └── README.md
 
 ---
@@ -35,6 +37,7 @@ tic-tac-toe
 
 ```bash
 pip install PyQt6
+```
 3. Run the game:
 python tic-tac-toe.py
 The game window will open and players can start playing immediately.
