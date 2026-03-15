@@ -66,7 +66,7 @@ C ↔ X
 
 ```bash
 python main.py
-'''
+```
 
 The graphical interface will open and allow you to encrypt or decrypt text.
 
