@@ -33,7 +33,7 @@ Projects include:
 
 ---
 
-## 🪟 PyQt Applications
+## 🧩 PyQt Applications
 
 GUI programs created with the **PyQt framework**.
 
