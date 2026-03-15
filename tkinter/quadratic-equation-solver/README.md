@@ -26,8 +26,11 @@ The program allows users to input the coefficients of a quadratic equation and i
 ## 📂 Project Structure
 
 quadratic-equation-solver
+
 │
+
 ├── quadratic-equation-solver.py # main program
+
 └── README.md
 
 ---
@@ -40,6 +43,7 @@ quadratic-equation-solver
 
 ```bash
 python quadratic-equation-solver.py
+```
 
 3. Enter the coefficients a, b, and c in the interface to solve the equation.
 
