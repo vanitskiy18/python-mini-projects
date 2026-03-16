@@ -25,9 +25,13 @@ This project was created as a learning exercise while studying Python, GUI progr
 ## 📂 Project Structure
 ciphers
 │
+
 ├── main.py # application entry point
+
 ├── interface.py # GUI logic
+
 ├── ciphers.py # encryption algorithms
+
 └── uncipher.py # decryption algorithms
 
 ---
@@ -66,6 +70,7 @@ C ↔ X
 
 ```bash
 python main.py
+```
 
 The graphical interface will open and allow you to encrypt or decrypt text.
 

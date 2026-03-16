@@ -31,9 +31,13 @@ The goal of the game is to help with **memorizing vocabulary through repetition 
 ## 📂 Project Structure
 
 tkinter-memory-translator
+
 │
+
 ├── memory_game.py # main game logic
+
 ├── dictionary.py # vocabulary dictionary
+
 └── README.md
 
 ---
@@ -46,6 +50,7 @@ tkinter-memory-translator
 
 ```bash
 python memory_game.py
+```
 
 3. Use the graphical keyboard to type the translation of the displayed word.
 
