@@ -14,6 +14,7 @@ These projects explore different areas of Python such as:
 - algorithm implementation
 - cryptography
 - console games
+- matplotlib visualizations
 
 Some of them were created as learning exercises, others as small standalone applications.
 
@@ -84,17 +85,38 @@ Includes:
 
 ---
 
-# 🛠 Technologies Used
+### 📊 Matplotlib Visualizations
+
+Examples of mathematical and data visualizations created using **NumPy** and **Matplotlib**.
+
+These notebooks demonstrate how to generate numerical data and visualize mathematical relationships.
+
+Projects include:
+
+- **Sine Function Plot** – visualization of sin(x) on the interval [-4π, 4π] with highlighted maxima and minima
+- **Polynomial Functions Plot** – comparison of functions such as x, x² + 1, and x³ + 1
+- **Parametric Curve Visualization** – plotting parametric equations for different parameter values
+- **Plot From File** – reading numerical data from a text file and visualizing it with Matplotlib
+
+---
+
+# ⚙️ Technologies Used
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
+![NumPy](https://img.shields.io/badge/NumPy-numerical%20computing-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-data%20visualization-orange)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green)
 ![PyQt](https://img.shields.io/badge/PyQt-GUI-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-red)
 
 Main technologies used in this repository:
 
 - Python
+- NumPy
+- Matplotlib
 - Tkinter
 - PyQt
+- Jupyter Notebook
 - Standard Python libraries (`random`, `math`, etc.)
 
 ---
